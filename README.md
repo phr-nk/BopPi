@@ -1,5 +1,5 @@
 # BopPi
-This was an attempt to recreate the 90's Bop It game but with 21st century features for the Raspberry Pi 3. It kinda worked.
+This was an attempt to recreate the 90's Bop It game but with 21st century features for the Raspberry Pi 3.
 
 Link to the twitter that displays scores: https://twitter.com/BotPhrank
 
